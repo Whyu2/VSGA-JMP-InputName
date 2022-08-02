@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplikasi Input Sederhana</string>
+    <string name="lbl_name">Masukkan Nama Anda</string>
+    <string name="btn_tampil_name">Tampilkan</string>
+</resources>
